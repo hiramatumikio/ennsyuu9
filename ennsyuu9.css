@@ -69,7 +69,7 @@ title{
 .step-box{
   float: none;
   margin-bottom: 20px;
-  width: 90%;
+  width: 100%;
 }
 
 .step-box:last-child{
